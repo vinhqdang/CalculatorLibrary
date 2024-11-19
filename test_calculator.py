@@ -17,4 +17,4 @@ class TestCalculator:
         assert 100 == calculator.multiply(10, 10)
 
     def test_power(self):
-        assert 8 == calculator.power(2,3)
+        assert 16 == calculator.power(2,4)
